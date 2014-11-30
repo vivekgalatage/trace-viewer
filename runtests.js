@@ -1,3 +1,3 @@
 var page = new WebPage();
-console.log("Log failure");
-phantom.exit(1)
+console.log("Log pass");
+phantom.exit(0)
